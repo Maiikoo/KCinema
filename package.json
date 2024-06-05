@@ -1,7 +1,7 @@
 {
     "name": "KCinema",
     "preductname": "KCinema",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "description": "Launcher officiel du KCinema",
     "main": "src/app.js",
     "author": {
